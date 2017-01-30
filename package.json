@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This is app for mean web",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "connect": "^3.5.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

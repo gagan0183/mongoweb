@@ -21,11 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="lowlevelnodeapi.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lowlevelnodeapi.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter2/lowlevelnodeapi.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connectapi.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter2/connectapi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -46,6 +58,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/chapter2/lowlevelnodeapi.js" />
+        <option value="$PROJECT_DIR$/chapter2/connectapi.js" />
       </list>
     </option>
   </component>
@@ -190,12 +203,12 @@
       <option name="presentableId" value="Default" />
       <updated>1485449029598</updated>
       <workItem from="1485449030896" duration="650000" />
-      <workItem from="1485809270523" duration="285000" />
+      <workItem from="1485809270523" duration="1914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="935000" />
+    <option name="totallyTimeSpent" value="2564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
@@ -232,6 +245,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/connectapi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
           </folding>
